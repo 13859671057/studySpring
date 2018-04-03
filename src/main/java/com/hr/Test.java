@@ -2,7 +2,8 @@ package main.java.com.hr;
 
 public class Test {
   private void mai() { 
-	  //�ٴ��޸�
+	  //ÔÙ´ÎÐÞ¸Ä
+	  //的互殴 速速
 
 }
 }
